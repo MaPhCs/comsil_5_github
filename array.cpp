@@ -3,8 +3,6 @@
 #include <iostream>
 using namespace std;
 
-// For test_branch02
-// 변화 확인용 주석.
 
 Array::Array(int size)
 {
