@@ -3,6 +3,7 @@
 #include <iostream>
 using namespace std;
 
+/* 주석 : 코드 변경 확인용 for tb01*/
 
 Array::Array(int size)
 {
